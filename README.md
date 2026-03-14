@@ -1,2 +1,2 @@
 # ex_team6-group
-for compeleting  group task 
+for completing  group task 

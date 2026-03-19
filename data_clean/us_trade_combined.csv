@@ -1,0 +1,1051 @@
+Country,value_usd,fiscal_year,trade_type
+World total,206207275626.0,2024,import
+Mexico,47872213561.0,2024,import
+Canada,40577930414.0,2024,import
+European Union-27,35250956448.0,2024,import
+Brazil,7274988098.0,2024,import
+China,5646876659.0,2024,import
+Australia,5030129439.0,2024,import
+Peru,4087205074.0,2024,import
+Colombia,4045106304.0,2024,import
+Indonesia,3921092763.0,2024,import
+New Zealand,3537652985.0,2024,import
+Thailand,3428992149.0,2024,import
+Chile,3381610422.0,2024,import
+India,3372120309.0,2024,import
+Guatemala,2861052852.0,2024,import
+World total,195333657355.0,2023,import
+Mexico,44855294729.0,2023,import
+Canada,39726440782.0,2023,import
+European Union-27,33402526003.0,2023,import
+Brazil,6400318395.0,2023,import
+China,4349181829.0,2023,import
+Australia,4290053303.0,2023,import
+Indonesia,4255792866.0,2023,import
+Colombia,4084942994.0,2023,import
+Singapore,3787793728.0,2023,import
+Peru,3559146876.0,2023,import
+New Zealand,3545791611.0,2023,import
+India,3069568411.0,2023,import
+Thailand,3015811799.0,2023,import
+Chile,3013934691.0,2023,import
+World total,194137500777.0,2022,import
+Mexico,42769750662.0,2022,import
+Canada,36110295725.0,2022,import
+European Union-27,35068880471.0,2022,import
+Brazil,5954806001.0,2022,import
+Indonesia,4851421540.0,2022,import
+China,4847832421.0,2022,import
+Australia,4264794483.0,2022,import
+Colombia,4085211857.0,2022,import
+Peru,3787740711.0,2022,import
+Singapore,3683220318.0,2022,import
+Chile,3522814604.0,2022,import
+Thailand,3473027349.0,2022,import
+India,3371405127.0,2022,import
+New Zealand,3363756478.0,2022,import
+World total,163321690214.0,2021,import
+Mexico,36468644937.0,2021,import
+European Union-27,31117622536.0,2021,import
+Canada,29540374202.0,2021,import
+Brazil,4531436739.0,2021,import
+China,3991014304.0,2021,import
+Singapore,3540898342.0,2021,import
+Australia,3284370078.0,2021,import
+Colombia,3139879495.0,2021,import
+Indonesia,3053844316.0,2021,import
+India,3044012380.0,2021,import
+Chile,2956612016.0,2021,import
+Peru,2922492229.0,2021,import
+New Zealand,2804267411.0,2021,import
+Thailand,2745166894.0,2021,import
+World total,143402657062.0,2020,import
+Mexico,31843905630.0,2020,import
+European Union-27,27146010945.0,2020,import
+Canada,24821235964.0,2020,import
+Brazil,3870489873.0,2020,import
+China,3715216216.0,2020,import
+Australia,3463749091.0,2020,import
+Singapore,3109173893.0,2020,import
+Thailand,2784669436.0,2020,import
+Chile,2757774984.0,2020,import
+Peru,2702272252.0,2020,import
+Colombia,2691641097.0,2020,import
+India,2599031942.0,2020,import
+New Zealand,2578474475.0,2020,import
+Indonesia,2458967175.0,2020,import
+World total,141436704887.0,2019,import
+Mexico,29687540195.0,2019,import
+European Union-27,28538832076.0,2019,import
+Canada,24135343305.0,2019,import
+China,4165687970.0,2019,import
+Brazil,4048935868.0,2019,import
+Australia,3428113805.0,2019,import
+Singapore,3113380150.0,2019,import
+Chile,2882229617.0,2019,import
+United Kingdom,2787019594.0,2019,import
+Colombia,2704086593.0,2019,import
+India,2686349934.0,2019,import
+Thailand,2490258354.0,2019,import
+Peru,2442804880.0,2019,import
+New Zealand,2388328257.0,2019,import
+World total,136477563269.0,2018,import
+Mexico,27172697088.0,2018,import
+European Union-27,26875931809.0,2018,import
+Canada,23616920598.0,2018,import
+China,4802484849.0,2018,import
+Brazil,3937338443.0,2018,import
+Australia,3271375355.0,2018,import
+Chile,3047821749.0,2018,import
+Indonesia,2713856795.0,2018,import
+India,2659481733.0,2018,import
+New Zealand,2611167825.0,2018,import
+Colombia,2573116651.0,2018,import
+United Kingdom,2561516812.0,2018,import
+Thailand,2346324333.0,2018,import
+Vietnam,2336899396.0,2018,import
+World total,127150993448.0,2017,import
+Mexico,25353277257.0,2017,import
+European Union-27,24367492929.0,2017,import
+Canada,22598109686.0,2017,import
+China,4444689972.0,2017,import
+Brazil,3853254635.0,2017,import
+Australia,3099912014.0,2017,import
+Chile,2997541761.0,2017,import
+Indonesia,2666632070.0,2017,import
+New Zealand,2605784599.0,2017,import
+Colombia,2597056297.0,2017,import
+India,2517988541.0,2017,import
+United Kingdom,2434838072.0,2017,import
+Vietnam,2342722795.0,2017,import
+Guatemala,2113245821.0,2017,import
+World total,121083455740.0,2016,import
+Mexico,23650443963.0,2016,import
+European Union-27,23396034651.0,2016,import
+Canada,22050429608.0,2016,import
+China,4239185645.0,2016,import
+Brazil,3797434477.0,2016,import
+Australia,3370420872.0,2016,import
+Chile,3030275051.0,2016,import
+New Zealand,2593229314.0,2016,import
+United Kingdom,2398905491.0,2016,import
+Colombia,2298614691.0,2016,import
+India,2098521725.0,2016,import
+Thailand,2071405064.0,2016,import
+Indonesia,2062998446.0,2016,import
+Vietnam,1956301555.0,2016,import
+World total,121611466710.0,2015,import
+Canada,23027659377.0,2015,import
+European Union-27,22507834193.0,2015,import
+Mexico,21823276854.0,2015,import
+Australia,4657473071.0,2015,import
+China,4276495063.0,2015,import
+Brazil,3952822252.0,2015,import
+New Zealand,3011612348.0,2015,import
+India,2964106234.0,2015,import
+Chile,2817101518.0,2015,import
+Colombia,2478830503.0,2015,import
+United Kingdom,2302345467.0,2015,import
+Thailand,2043083070.0,2015,import
+Indonesia,2006081554.0,2015,import
+Guatemala,1965182494.0,2015,import
+World total,115888195470.0,2014,import
+Canada,23491497746.0,2014,import
+European Union-27,21503919516.0,2014,import
+Mexico,19881480707.0,2014,import
+China,4294056570.0,2014,import
+Brazil,4225225212.0,2014,import
+Australia,3349953347.0,2014,import
+India,3016627735.0,2014,import
+Chile,2760313055.0,2014,import
+New Zealand,2478245496.0,2014,import
+Colombia,2363469508.0,2014,import
+United Kingdom,2213269576.0,2014,import
+Thailand,1912575990.0,2014,import
+Indonesia,1869308370.0,2014,import
+Guatemala,1859225385.0,2014,import
+World total,111001676791.0,2013,import
+Canada,22188586922.0,2013,import
+European Union-27,20190454148.0,2013,import
+Mexico,18068786041.0,2013,import
+Brazil,5391868676.0,2013,import
+China,4429623690.0,2013,import
+India,3723570260.0,2013,import
+Chile,2855553496.0,2013,import
+Australia,2725235388.0,2013,import
+New Zealand,2195744025.0,2013,import
+Colombia,2147233643.0,2013,import
+United Kingdom,2054417555.0,2013,import
+Guatemala,1847614113.0,2013,import
+Thailand,1830044556.0,2013,import
+Argentina,1829245048.0,2013,import
+World total,108342073702.0,2012,import
+Canada,20551746208.0,2012,import
+European Union-27,19305404755.0,2012,import
+Mexico,17064393675.0,2012,import
+India,5408482659.0,2012,import
+Brazil,5031173255.0,2012,import
+China,4283240240.0,2012,import
+Australia,2563487581.0,2012,import
+Chile,2509897877.0,2012,import
+Colombia,2343169078.0,2012,import
+New Zealand,2190523672.0,2012,import
+Malaysia,1998691382.0,2012,import
+United Kingdom,1993656829.0,2012,import
+Guatemala,1941532415.0,2012,import
+Argentina,1743130143.0,2012,import
+World total,97464705068.0,2011,import
+Canada,18496356979.0,2011,import
+European Union-27,18240209055.0,2011,import
+Mexico,16199680665.0,2011,import
+China,3844942405.0,2011,import
+Brazil,3830795987.0,2011,import
+Australia,2363986810.0,2011,import
+Colombia,2349062423.0,2011,import
+Chile,2331365380.0,2011,import
+India,2288257019.0,2011,import
+Malaysia,2218572846.0,2011,import
+New Zealand,1951123527.0,2011,import
+United Kingdom,1741147856.0,2011,import
+Guatemala,1697355014.0,2011,import
+Thailand,1584206382.0,2011,import
+World total,82934257772.0,2010,import
+European Union-27,16326500797.0,2010,import
+Canada,16205293090.0,2010,import
+Mexico,13642936622.0,2010,import
+China,3166335065.0,2010,import
+Brazil,2923004760.0,2010,import
+Australia,2324908941.0,2010,import
+Chile,2280172282.0,2010,import
+Colombia,1858442802.0,2010,import
+United Kingdom,1687153064.0,2010,import
+New Zealand,1641988208.0,2010,import
+Malaysia,1526411896.0,2010,import
+India,1507498217.0,2010,import
+Thailand,1376383331.0,2010,import
+Guatemala,1359602372.0,2010,import
+World total,78241354309.0,2009,import
+Canada,15846917579.0,2009,import
+European Union-27,15799561768.0,2009,import
+Mexico,11860093480.0,2009,import
+China,2896548478.0,2009,import
+Brazil,2613053421.0,2009,import
+Australia,2449493289.0,2009,import
+Chile,2140775844.0,2009,import
+New Zealand,1789069135.0,2009,import
+Colombia,1781941269.0,2009,import
+United Kingdom,1589578329.0,2009,import
+Malaysia,1480707257.0,2009,import
+India,1324445028.0,2009,import
+Guatemala,1273300781.0,2009,import
+Thailand,1265522484.0,2009,import
+World total,84227055737.0,2008,import
+Canada,18438136777.0,2008,import
+European Union-27,18082036105.0,2008,import
+Mexico,11433593193.0,2008,import
+China,3436430694.0,2008,import
+Brazil,3095164762.0,2008,import
+Australia,2410338373.0,2008,import
+Chile,1965325387.0,2008,import
+New Zealand,1749311138.0,2008,import
+Colombia,1748686106.0,2008,import
+Malaysia,1701261013.0,2008,import
+United Kingdom,1678683352.0,2008,import
+India,1559809434.0,2008,import
+Costa Rica,1296470935.0,2008,import
+Thailand,1239542479.0,2008,import
+World total,75171021632.0,2007,import
+European Union-27,17214753586.0,2007,import
+Canada,15223765280.0,2007,import
+Mexico,10557719143.0,2007,import
+Brazil,3172901528.0,2007,import
+China,2861782256.0,2007,import
+Australia,2613781328.0,2007,import
+Chile,1924433455.0,2007,import
+New Zealand,1714408812.0,2007,import
+United Kingdom,1569082984.0,2007,import
+Colombia,1555988733.0,2007,import
+Costa Rica,1311952098.0,2007,import
+India,1114080108.0,2007,import
+Argentina,1105577747.0,2007,import
+Guatemala,1022365863.0,2007,import
+World total,68868184047.0,2006,import
+European Union-27,16029328813.0,2006,import
+Canada,13759866266.0,2006,import
+Mexico,9911800631.0,2006,import
+Brazil,3042495371.0,2006,import
+Australia,2439089838.0,2006,import
+China,2220900908.0,2006,import
+Chile,1718235737.0,2006,import
+New Zealand,1711510978.0,2006,import
+United Kingdom,1524938905.0,2006,import
+Colombia,1487074902.0,2006,import
+Costa Rica,1239661787.0,2006,import
+India,1022596966.0,2006,import
+Guatemala,931105969.0,2006,import
+Argentina,915260220.0,2006,import
+World total,61566894853.0,2005,import
+European Union-27,15122513733.0,2005,import
+Canada,12384149349.0,2005,import
+Mexico,8596437970.0,2005,import
+Australia,2490875197.0,2005,import
+Brazil,1879072770.0,2005,import
+China,1831106557.0,2005,import
+New Zealand,1623918551.0,2005,import
+Chile,1535702462.0,2005,import
+United Kingdom,1453313595.0,2005,import
+Colombia,1428051855.0,2005,import
+India,923073953.0,2005,import
+Costa Rica,916565501.0,2005,import
+Guatemala,894661478.0,2005,import
+Argentina,779654724.0,2005,import
+World total,56126740980.0,2004,import
+European Union-27,13481424437.0,2004,import
+Canada,11886904785.0,2004,import
+Mexico,7488828610.0,2004,import
+Australia,2388162529.0,2004,import
+Brazil,1747014182.0,2004,import
+China,1609866381.0,2004,import
+New Zealand,1578743466.0,2004,import
+United Kingdom,1389340992.0,2004,import
+Chile,1317852269.0,2004,import
+Colombia,1193680690.0,2004,import
+Costa Rica,933603500.0,2004,import
+India,823950573.0,2004,import
+Guatemala,777146667.0,2004,import
+Thailand,715421400.0,2004,import
+World total,49114402248.0,2003,import
+European Union-27,11674965644.0,2003,import
+Canada,10789226527.0,2003,import
+Mexico,6481795265.0,2003,import
+Australia,1977077383.0,2003,import
+Brazil,1494098119.0,2003,import
+New Zealand,1290927475.0,2003,import
+United Kingdom,1240211670.0,2003,import
+China,1221714741.0,2003,import
+Chile,1204225541.0,2003,import
+Colombia,1080603506.0,2003,import
+Costa Rica,863397640.0,2003,import
+Guatemala,772942159.0,2003,import
+India,705134776.0,2003,import
+Thailand,635424478.0,2003,import
+World total,44457311966.0,2002,import
+Canada,10795113252.0,2002,import
+European Union-27,9827545412.0,2002,import
+Mexico,5720289892.0,2002,import
+Australia,1895507260.0,2002,import
+United Kingdom,1263377358.0,2002,import
+New Zealand,1232370964.0,2002,import
+Chile,1127124813.0,2002,import
+Brazil,1098044281.0,2002,import
+China,1022800531.0,2002,import
+Colombia,934988117.0,2002,import
+Costa Rica,831930558.0,2002,import
+India,683467250.0,2002,import
+Guatemala,642074038.0,2002,import
+Indonesia,593869844.0,2002,import
+World total,42214418581.0,2001,import
+Canada,10123072001.0,2001,import
+European Union-27,9058850372.0,2001,import
+Mexico,5695599802.0,2001,import
+Australia,1802031862.0,2001,import
+United Kingdom,1235185485.0,2001,import
+New Zealand,1229345023.0,2001,import
+Chile,1027813183.0,2001,import
+Brazil,986995473.0,2001,import
+Colombia,974090785.0,2001,import
+Costa Rica,833971395.0,2001,import
+China,824870820.0,2001,import
+India,698070090.0,2001,import
+Guatemala,625378811.0,2001,import
+Argentina,610176583.0,2001,import
+World total,41646121507.0,2000,import
+Canada,9175948741.0,2000,import
+European Union-27,8959956941.0,2000,import
+Mexico,5318620448.0,2000,import
+Australia,1518810297.0,2000,import
+United Kingdom,1260195068.0,2000,import
+Brazil,1256249116.0,2000,import
+Colombia,1165572117.0,2000,import
+New Zealand,1106130135.0,2000,import
+Chile,976855822.0,2000,import
+India,877828512.0,2000,import
+China,836938628.0,2000,import
+Costa Rica,826065334.0,2000,import
+Guatemala,733936243.0,2000,import
+Argentina,685920158.0,2000,import
+World total,39740959959.0,1999,import
+European Union-27,8553107907.0,1999,import
+Canada,8536741703.0,1999,import
+Mexico,5029615153.0,1999,import
+Brazil,1436352083.0,1999,import
+Colombia,1191502238.0,1999,import
+United Kingdom,1181729380.0,1999,import
+Australia,1134395463.0,1999,import
+New Zealand,951095196.0,1999,import
+Chile,930355540.0,1999,import
+Costa Rica,860521619.0,1999,import
+India,807330712.0,1999,import
+China,792619324.0,1999,import
+Indonesia,773515307.0,1999,import
+Argentina,690220704.0,1999,import
+World total,38832490737.0,1998,import
+Canada,8390909755.0,1998,import
+European Union-27,7951679973.0,1998,import
+Mexico,4839322275.0,1998,import
+Colombia,1363237692.0,1998,import
+Brazil,1207168389.0,1998,import
+Australia,1105291605.0,1998,import
+United Kingdom,1029811054.0,1998,import
+New Zealand,909646817.0,1998,import
+China,783084239.0,1998,import
+Indonesia,775588729.0,1998,import
+Costa Rica,766557005.0,1998,import
+Chile,762297721.0,1998,import
+Guatemala,750010482.0,1998,import
+India,729745777.0,1998,import
+World total,37191551707.0,1997,import
+Canada,7880543491.0,1997,import
+European Union-27,7583602192.0,1997,import
+Mexico,4121255840.0,1997,import
+Brazil,1520853559.0,1997,import
+Colombia,1352395151.0,1997,import
+United Kingdom,987557782.0,1997,import
+Australia,928306656.0,1997,import
+New Zealand,852369403.0,1997,import
+Indonesia,812833304.0,1997,import
+Chile,760896533.0,1997,import
+Costa Rica,759355260.0,1997,import
+Guatemala,731916818.0,1997,import
+Argentina,699516646.0,1997,import
+China,670952450.0,1997,import
+World total,33420700689.0,1996,import
+Canada,6995814542.0,1996,import
+European Union-27,6869510630.0,1996,import
+Mexico,3872056175.0,1996,import
+Brazil,1251459796.0,1996,import
+Colombia,1149326575.0,1996,import
+United Kingdom,916132609.0,1996,import
+Australia,854075320.0,1996,import
+New Zealand,740612958.0,1996,import
+Argentina,716078101.0,1996,import
+Chile,700360027.0,1996,import
+Costa Rica,682562600.0,1996,import
+Guatemala,654018162.0,1996,import
+Indonesia,629488752.0,1996,import
+Thailand,591323864.0,1996,import
+World total,30479531390.0,1995,import
+European Union-27,6330728463.0,1995,import
+Canada,5931108349.0,1995,import
+Mexico,3896559414.0,1995,import
+Brazil,1337382353.0,1995,import
+Colombia,1149923263.0,1995,import
+United Kingdom,884877507.0,1995,import
+Australia,870128350.0,1995,import
+New Zealand,766607956.0,1995,import
+Guatemala,659636892.0,1995,import
+Costa Rica,641231843.0,1995,import
+Thailand,572558774.0,1995,import
+Ecuador,549942528.0,1995,import
+Chile,542149624.0,1995,import
+Philippines,541315949.0,1995,import
+World total,27907248012.0,1994,import
+European Union-27,5896811341.0,1994,import
+Canada,5874126047.0,1994,import
+Mexico,2941373006.0,1994,import
+Brazil,1406988241.0,1994,import
+Australia,987973685.0,1994,import
+Colombia,943226418.0,1994,import
+United Kingdom,801447116.0,1994,import
+New Zealand,747965937.0,1994,import
+Costa Rica,544118419.0,1994,import
+Thailand,532371011.0,1994,import
+Chile,518203415.0,1994,import
+Guatemala,499760607.0,1994,import
+China,471927630.0,1994,import
+Ecuador,463332625.0,1994,import
+World total,25919551202.0,1993,import
+European Union-27,5428738654.0,1993,import
+Canada,5207379797.0,1993,import
+Mexico,2828805965.0,1993,import
+Brazil,1213571982.0,1993,import
+Australia,1069810087.0,1993,import
+Colombia,818284175.0,1993,import
+United Kingdom,785850700.0,1993,import
+New Zealand,773462024.0,1993,import
+Costa Rica,574263040.0,1993,import
+Thailand,546778191.0,1993,import
+Guatemala,494411756.0,1993,import
+Philippines,481244811.0,1993,import
+Chile,469010394.0,1993,import
+China,442321283.0,1993,import
+World total,25843622061.0,1992,import
+European Union-27,5654048829.0,1992,import
+Canada,4585807531.0,1992,import
+Mexico,2387052063.0,1992,import
+Brazil,1365220389.0,1992,import
+Australia,1124712900.0,1992,import
+Colombia,875099291.0,1992,import
+New Zealand,849712203.0,1992,import
+United Kingdom,755259514.0,1992,import
+Turkey,676502676.0,1992,import
+Thailand,527599456.0,1992,import
+Costa Rica,522003723.0,1992,import
+Guatemala,517152502.0,1992,import
+Chile,496672627.0,1992,import
+Argentina,495683827.0,1992,import
+World total,23818999687.0,1991,import
+European Union-27,5269541952.0,1991,import
+Canada,3711721820.0,1991,import
+Mexico,2622571689.0,1991,import
+Brazil,1325228200.0,1991,import
+Australia,1284061556.0,1991,import
+New Zealand,858596690.0,1991,import
+Colombia,769120388.0,1991,import
+United Kingdom,679516150.0,1991,import
+Argentina,548109845.0,1991,import
+Ecuador,475071853.0,1991,import
+Costa Rica,462749307.0,1991,import
+Guatemala,453764048.0,1991,import
+Chile,437970294.0,1991,import
+Philippines,410941738.0,1991,import
+World total,23816495881.0,1990,import
+European Union-27,5291468857.0,1990,import
+Canada,3632240910.0,1990,import
+Mexico,2663944590.0,1990,import
+Brazil,1559616006.0,1990,import
+Australia,1169922465.0,1990,import
+New Zealand,819490979.0,1990,import
+Colombia,794388521.0,1990,import
+United Kingdom,697921305.0,1990,import
+Guatemala,502265311.0,1990,import
+Chile,473099441.0,1990,import
+Philippines,450167046.0,1990,import
+Ecuador,440391897.0,1990,import
+Costa Rica,412042224.0,1990,import
+Thailand,380771723.0,1990,import
+World total,174428419723.0,2024,export
+Mexico,30036058634.0,2024,export
+Canada,29003911560.0,2024,export
+China,25744968423.0,2024,export
+European Union-27,12389605121.0,2024,export
+Japan,11850923166.0,2024,export
+South Korea,8249113245.0,2024,export
+Colombia,4225692762.0,2024,export
+Philippines,3715640373.0,2024,export
+Taiwan,3670480441.0,2024,export
+Vietnam,3164364660.0,2024,export
+Indonesia,3006355911.0,2024,export
+India,2212468569.0,2024,export
+United Kingdom,2117248884.0,2024,export
+Dominican Republic,2101768247.0,2024,export
+World total,178183697520.0,2023,export
+China,33642827948.0,2023,export
+Canada,28127967012.0,2023,export
+Mexico,28026861869.0,2023,export
+European Union-27,12227567983.0,2023,export
+Japan,12174399983.0,2023,export
+South Korea,7653949100.0,2023,export
+Taiwan,3767548398.0,2023,export
+Philippines,3500972989.0,2023,export
+Colombia,3270255543.0,2023,export
+Indonesia,2976517606.0,2023,export
+Vietnam,2975900458.0,2023,export
+Dominican Republic,2002019072.0,2023,export
+United Kingdom,1906433903.0,2023,export
+India,1742664763.0,2023,export
+World total,196054947115.0,2022,export
+China,36194672114.0,2022,export
+Canada,28625848339.0,2022,export
+Mexico,28041851051.0,2022,export
+Japan,15230912633.0,2022,export
+European Union-27,12660858921.0,2022,export
+South Korea,9546788893.0,2022,export
+Taiwan,4260283666.0,2022,export
+Colombia,4181973423.0,2022,export
+Philippines,3922194902.0,2022,export
+Vietnam,3465752090.0,2022,export
+Indonesia,3205382501.0,2022,export
+Egypt,2786762867.0,2022,export
+India,2416569108.0,2022,export
+Dominican Republic,1978280899.0,2022,export
+World total,171832633354.0,2021,export
+China,33354901009.0,2021,export
+Canada,24255911534.0,2021,export
+Mexico,23869249951.0,2021,export
+Japan,13509222404.0,2021,export
+European Union-27,10589327993.0,2021,export
+South Korea,9034428469.0,2021,export
+Taiwan,3712784558.0,2021,export
+Philippines,3581540824.0,2021,export
+Vietnam,3564944498.0,2021,export
+Indonesia,3067707289.0,2021,export
+Colombia,3011889610.0,2021,export
+Egypt,1844888693.0,2021,export
+Hong Kong,1767716114.0,2021,export
+Dominican Republic,1733052651.0,2021,export
+World total,139724153422.0,2020,export
+Canada,22016291650.0,2020,export
+Mexico,18297323641.0,2020,export
+China,16972738250.0,2020,export
+Japan,11659817006.0,2020,export
+European Union-27,10238087956.0,2020,export
+South Korea,7637824887.0,2020,export
+Vietnam,3437110812.0,2020,export
+Taiwan,3266796901.0,2020,export
+Philippines,3204874920.0,2020,export
+Colombia,2907088138.0,2020,export
+Indonesia,2705975527.0,2020,export
+Hong Kong,2311041347.0,2020,export
+Egypt,1756783090.0,2020,export
+India,1738268075.0,2020,export
+World total,140093712398.0,2019,export
+Canada,22048278019.0,2019,export
+Mexico,19218352188.0,2019,export
+Japan,12408229556.0,2019,export
+European Union-27,11543890059.0,2019,export
+China,10109827232.0,2019,export
+South Korea,8009524006.0,2019,export
+Vietnam,3672327289.0,2019,export
+Taiwan,3625149138.0,2019,export
+Hong Kong,3527912950.0,2019,export
+Philippines,2992978451.0,2019,export
+Indonesia,2891513853.0,2019,export
+Colombia,2749256124.0,2019,export
+India,2111893357.0,2019,export
+United Kingdom,1923534362.0,2019,export
+World total,148619972245.0,2018,export
+Canada,21837870152.0,2018,export
+Mexico,19086316644.0,2018,export
+China,16443206702.0,2018,export
+Japan,12854714177.0,2018,export
+European Union-27,11845647371.0,2018,export
+South Korea,8126999516.0,2018,export
+Hong Kong,4213882302.0,2018,export
+Vietnam,3946040380.0,2018,export
+Taiwan,3820529766.0,2018,export
+Indonesia,3098570719.0,2018,export
+Philippines,2943792278.0,2018,export
+Colombia,2828591372.0,2018,export
+Thailand,2143688098.0,2018,export
+United Kingdom,1943330747.0,2018,export
+World total,144780787996.0,2017,export
+China,21884698222.0,2017,export
+Canada,21599642974.0,2017,export
+Mexico,18800165282.0,2017,export
+Japan,12113534027.0,2017,export
+European Union-27,10477083155.0,2017,export
+South Korea,6958399392.0,2017,export
+Hong Kong,4058567680.0,2017,export
+Taiwan,3415251229.0,2017,export
+Indonesia,2971094772.0,2017,export
+Philippines,2714648183.0,2017,export
+Colombia,2603507284.0,2017,export
+Vietnam,2587416396.0,2017,export
+United Kingdom,1900843716.0,2017,export
+Thailand,1776520457.0,2017,export
+World total,133718758167.0,2016,export
+Canada,21472415817.0,2016,export
+China,19510347261.0,2016,export
+Mexico,17789337954.0,2016,export
+Japan,11001664746.0,2016,export
+European Union-27,10411895072.0,2016,export
+South Korea,5800245333.0,2016,export
+Hong Kong,3514391251.0,2016,export
+Taiwan,3090376805.0,2016,export
+Philippines,2599640081.0,2016,export
+Vietnam,2389077807.0,2016,export
+Indonesia,2374169691.0,2016,export
+Colombia,2263430654.0,2016,export
+United Kingdom,2023952338.0,2016,export
+Thailand,1459141074.0,2016,export
+World total,144067923765.0,2015,export
+China,22651336949.0,2015,export
+Canada,22627817397.0,2015,export
+Mexico,18213500470.0,2015,export
+Japan,12111697420.0,2015,export
+European Union-27,11145944206.0,2015,export
+South Korea,6590594531.0,2015,export
+Hong Kong,3946846329.0,2015,export
+Taiwan,3312897320.0,2015,export
+Colombia,2589118244.0,2015,export
+Philippines,2580459871.0,2015,export
+Indonesia,2442147833.0,2015,export
+Vietnam,2416596586.0,2015,export
+United Kingdom,1987403475.0,2015,export
+Thailand,1706500329.0,2015,export
+World total,156849012504.0,2014,export
+China,25728104688.0,2014,export
+Canada,23198105413.0,2014,export
+Mexico,19715638960.0,2014,export
+Japan,13817369929.0,2014,export
+European Union-27,11746174319.0,2014,export
+South Korea,6971776336.0,2014,export
+Hong Kong,4075153560.0,2014,export
+Taiwan,3507344316.0,2014,export
+Indonesia,2966526808.0,2014,export
+Philippines,2891261595.0,2014,export
+Colombia,2326108034.0,2014,export
+Vietnam,2232134852.0,2014,export
+Turkey,2119251063.0,2014,export
+United Kingdom,1886607281.0,2014,export
+World total,145082220916.0,2013,export
+China,23380609440.0,2013,export
+Canada,22873536983.0,2013,export
+Mexico,18139183982.0,2013,export
+Japan,12890548095.0,2013,export
+European Union-27,10563357683.0,2013,export
+South Korea,5234272647.0,2013,export
+Hong Kong,3651010301.0,2013,export
+Taiwan,3195403447.0,2013,export
+Indonesia,2618035229.0,2013,export
+Philippines,2479758445.0,2013,export
+Turkey,2201558145.0,2013,export
+Vietnam,2072943573.0,2013,export
+United Kingdom,1879397106.0,2013,export
+Egypt,1663165019.0,2013,export
+World total,141199753451.0,2012,export
+China,23413873694.0,2012,export
+Canada,21327473942.0,2012,export
+Mexico,19102892702.0,2012,export
+Japan,14278867433.0,2012,export
+European Union-27,8525466981.0,2012,export
+South Korea,6256958392.0,2012,export
+Hong Kong,3405985949.0,2012,export
+Taiwan,3101388038.0,2012,export
+Indonesia,2472401586.0,2012,export
+Philippines,2297757344.0,2012,export
+Turkey,1912798817.0,2012,export
+United Kingdom,1800780235.0,2012,export
+Egypt,1789737929.0,2012,export
+Russia,1519639195.0,2012,export
+World total,142089603594.0,2011,export
+China,19942907498.0,2011,export
+Canada,19743919634.0,2011,export
+Mexico,17829549706.0,2011,export
+Japan,14419671537.0,2011,export
+European Union-27,9767127023.0,2011,export
+South Korea,6776518651.0,2011,export
+Taiwan,3626640303.0,2011,export
+Hong Kong,3248747022.0,2011,export
+Indonesia,2986680754.0,2011,export
+Egypt,2975441398.0,2011,export
+Turkey,2530419589.0,2011,export
+Philippines,2024323990.0,2011,export
+United Kingdom,1801910951.0,2011,export
+Vietnam,1605908563.0,2011,export
+World total,111238753927.0,2010,export
+Canada,17321956075.0,2010,export
+China,14994155991.0,2010,export
+Mexico,14027487610.0,2010,export
+Japan,11723760508.0,2010,export
+European Union-27,7756730539.0,2010,export
+South Korea,5017476024.0,2010,export
+Taiwan,3198215502.0,2010,export
+Hong Kong,2478562693.0,2010,export
+Indonesia,2128074432.0,2010,export
+Turkey,2001178208.0,2010,export
+Philippines,1613946968.0,2010,export
+Egypt,1569857260.0,2010,export
+United Kingdom,1517379229.0,2010,export
+Vietnam,1232304043.0,2010,export
+World total,98644404690.0,2009,export
+Canada,16166266494.0,2009,export
+Mexico,13414121124.0,2009,export
+Japan,11756595147.0,2009,export
+China,11079828700.0,2009,export
+European Union-27,6901274671.0,2009,export
+South Korea,3842529835.0,2009,export
+Taiwan,2903325368.0,2009,export
+Hong Kong,1752788886.0,2009,export
+Indonesia,1665209548.0,2009,export
+Russia,1427442659.0,2009,export
+Egypt,1421058059.0,2009,export
+Turkey,1391952254.0,2009,export
+United Kingdom,1268558110.0,2009,export
+Philippines,1250391242.0,2009,export
+World total,117951433143.0,2008,export
+Canada,17047621482.0,2008,export
+Mexico,15329096244.0,2008,export
+Japan,13828320529.0,2008,export
+China,11207500613.0,2008,export
+European Union-27,9783465577.0,2008,export
+South Korea,5573033710.0,2008,export
+Taiwan,3521704510.0,2008,export
+Indonesia,2203196843.0,2008,export
+Egypt,2201212461.0,2008,export
+Russia,1902822907.0,2008,export
+Colombia,1756438423.0,2008,export
+Turkey,1739993106.0,2008,export
+Philippines,1731902025.0,2008,export
+Hong Kong,1608848325.0,2008,export
+World total,85227071674.0,2007,export
+Canada,13768899345.0,2007,export
+Mexico,12450705972.0,2007,export
+Japan,10794680966.0,2007,export
+European Union-27,7160048626.0,2007,export
+China,7101121283.0,2007,export
+South Korea,3199861057.0,2007,export
+Taiwan,2928818633.0,2007,export
+Egypt,1687029590.0,2007,export
+United Kingdom,1484539407.0,2007,export
+Turkey,1376133471.0,2007,export
+Indonesia,1372805239.0,2007,export
+Russia,1138875877.0,2007,export
+Colombia,1125149131.0,2007,export
+Hong Kong,1117756822.0,2007,export
+World total,71231140014.0,2006,export
+Canada,11888224891.0,2006,export
+Mexico,10473872356.0,2006,export
+Japan,9275453359.0,2006,export
+China,6642396083.0,2006,export
+European Union-27,6259311915.0,2006,export
+South Korea,2724211815.0,2006,export
+Taiwan,2432695458.0,2006,export
+United Kingdom,1405209845.0,2006,export
+Indonesia,1045929417.0,2006,export
+Turkey,1017602704.0,2006,export
+Egypt,956397735.0,2006,export
+Hong Kong,942492381.0,2006,export
+Russia,924735492.0,2006,export
+Philippines,826853306.0,2006,export
+World total,64858836972.0,2005,export
+Canada,10644966199.0,2005,export
+Mexico,9301839651.0,2005,export
+Japan,8857586976.0,2005,export
+European Union-27,6291927029.0,2005,export
+China,5266425404.0,2005,export
+Taiwan,2224504239.0,2005,export
+South Korea,2195301268.0,2005,export
+United Kingdom,1260421126.0,2005,export
+Turkey,1024317623.0,2005,export
+Indonesia,977617845.0,2005,export
+Russia,926239018.0,2005,export
+Hong Kong,914486417.0,2005,export
+Philippines,837109140.0,2005,export
+Egypt,809097581.0,2005,export
+World total,64896334431.0,2004,export
+Canada,9835686014.0,2004,export
+Japan,9572325034.0,2004,export
+Mexico,8466088490.0,2004,export
+European Union-27,6175707605.0,2004,export
+China,6110452277.0,2004,export
+South Korea,2794549355.0,2004,export
+Taiwan,2176445796.0,2004,export
+United Kingdom,1228189697.0,2004,export
+Hong Kong,1018823606.0,2004,export
+Egypt,976878875.0,2004,export
+Indonesia,976176226.0,2004,export
+Turkey,940858691.0,2004,export
+Russia,758753421.0,2004,export
+Philippines,688881998.0,2004,export
+World total,58662311485.0,2003,export
+Japan,9932237692.0,2003,export
+Canada,9371575443.0,2003,export
+Mexico,7686698836.0,2003,export
+European Union-27,5720422063.0,2003,export
+China,3463459911.0,2003,export
+South Korea,2805527704.0,2003,export
+Taiwan,1999423564.0,2003,export
+United Kingdom,1126234880.0,2003,export
+Hong Kong,1094549990.0,2003,export
+Turkey,966336078.0,2003,export
+Indonesia,916709041.0,2003,export
+Egypt,832343568.0,2003,export
+Philippines,652847465.0,2003,export
+Thailand,624516277.0,2003,export
+World total,55964320061.0,2002,export
+Japan,9366012148.0,2002,export
+Canada,8793775641.0,2002,export
+Mexico,7127752730.0,2002,export
+European Union-27,5887908295.0,2002,export
+South Korea,2730511745.0,2002,export
+Taiwan,1962389667.0,2002,export
+China,1770902597.0,2002,export
+Hong Kong,1179236642.0,2002,export
+United Kingdom,1090882784.0,2002,export
+Egypt,1019774708.0,2002,export
+Turkey,817930993.0,2002,export
+Russia,796394387.0,2002,export
+Indonesia,783267456.0,2002,export
+Philippines,763815892.0,2002,export
+World total,56700984968.0,2001,export
+Japan,10631789172.0,2001,export
+Canada,8211852936.0,2001,export
+Mexico,7338069533.0,2001,export
+European Union-27,6108801307.0,2001,export
+South Korea,2674710567.0,2001,export
+Taiwan,2048721076.0,2001,export
+China,1874906893.0,2001,export
+Hong Kong,1316927437.0,2001,export
+United Kingdom,1116551170.0,2001,export
+Egypt,1004479560.0,2001,export
+Russia,898940325.0,2001,export
+Indonesia,874755334.0,2001,export
+Philippines,817651980.0,2001,export
+Turkey,720964643.0,2001,export
+World total,55294263958.0,2000,export
+Japan,11413276921.0,2000,export
+Canada,7686192741.0,2000,export
+Mexico,6361189432.0,2000,export
+European Union-27,6145166901.0,2000,export
+South Korea,2634019814.0,2000,export
+Taiwan,2063923991.0,2000,export
+China,1475224783.0,2000,export
+Hong Kong,1327504511.0,2000,export
+Egypt,1108360807.0,2000,export
+United Kingdom,1083469488.0,2000,export
+Philippines,858550793.0,2000,export
+Turkey,814577140.0,2000,export
+Saudi Arabia,757404301.0,2000,export
+Russia,702050972.0,2000,export
+World total,53754556403.0,1999,export
+Japan,10770248605.0,1999,export
+European Union-27,7222476227.0,1999,export
+Canada,7117442800.0,1999,export
+Mexico,5713620523.0,1999,export
+South Korea,2507833715.0,1999,export
+Taiwan,2100231443.0,1999,export
+Hong Kong,1332822024.0,1999,export
+United Kingdom,1168993764.0,1999,export
+Egypt,1038138006.0,1999,export
+China,990573572.0,1999,export
+Philippines,724565393.0,1999,export
+Saudi Arabia,687054498.0,1999,export
+Turkey,554575791.0,1999,export
+Russia,553154043.0,1999,export
+World total,59400921997.0,1998,export
+Japan,11220508048.0,1998,export
+European Union-27,9225776571.0,1998,export
+Canada,7195501779.0,1998,export
+Mexico,6016718254.0,1998,export
+South Korea,2301622755.0,1998,export
+Taiwan,2037831836.0,1998,export
+Hong Kong,1655407536.0,1998,export
+China,1500810617.0,1998,export
+Russia,1327711326.0,1998,export
+United Kingdom,1294959609.0,1998,export
+Egypt,1002083944.0,1998,export
+Turkey,783156926.0,1998,export
+Philippines,747397376.0,1998,export
+Saudi Arabia,723608961.0,1998,export
+World total,63068094342.0,1997,export
+Japan,12401809073.0,1997,export
+European Union-27,9642045683.0,1997,export
+Canada,6742896906.0,1997,export
+Mexico,5135991836.0,1997,export
+South Korea,3446748179.0,1997,export
+Taiwan,2669034691.0,1997,export
+China,1776451930.0,1997,export
+Hong Kong,1760549827.0,1997,export
+Russia,1521657863.0,1997,export
+United Kingdom,1303325243.0,1997,export
+Egypt,968125881.0,1997,export
+Philippines,913024559.0,1997,export
+Turkey,876304293.0,1997,export
+Saudi Arabia,790275430.0,1997,export
+World total,65873415365.0,1996,export
+Japan,13545223893.0,1996,export
+European Union-27,10336744718.0,1996,export
+Canada,6081769687.0,1996,export
+Mexico,5057513431.0,1996,export
+South Korea,3889174861.0,1996,export
+Taiwan,2981659936.0,1996,export
+China,1819040758.0,1996,export
+Hong Kong,1669396039.0,1996,export
+Russia,1617038380.0,1996,export
+Egypt,1459345531.0,1996,export
+United Kingdom,1209182503.0,1996,export
+Philippines,925707635.0,1996,export
+Indonesia,924656301.0,1996,export
+Saudi Arabia,768068948.0,1996,export
+World total,60958249932.0,1995,export
+Japan,12395080906.0,1995,export
+European Union-27,10042828069.0,1995,export
+Canada,5985768692.0,1995,export
+Mexico,3762629637.0,1995,export
+South Korea,3721760622.0,1995,export
+Taiwan,2612843358.0,1995,export
+China,2419704571.0,1995,export
+Hong Kong,1568523834.0,1995,export
+Egypt,1328222518.0,1995,export
+United Kingdom,1074030865.0,1995,export
+Russia,957243870.0,1995,export
+Brazil,845909043.0,1995,export
+Indonesia,739174531.0,1995,export
+Philippines,694531776.0,1995,export
+World total,49495115205.0,1994,export
+Japan,10847757657.0,1994,export
+European Union-27,7973132673.0,1994,export
+Canada,5370309330.0,1994,export
+Mexico,4280700150.0,1994,export
+Taiwan,2192435060.0,1994,export
+South Korea,2179549975.0,1994,export
+Russia,1345220957.0,1994,export
+Hong Kong,1301066141.0,1994,export
+United Kingdom,952640184.0,1994,export
+China,891822924.0,1994,export
+Saudi Arabia,688215968.0,1994,export
+Egypt,623193315.0,1994,export
+Algeria,592460817.0,1994,export
+Philippines,564317582.0,1994,export
+World total,47934159931.0,1993,export
+Japan,9940207267.0,1993,export
+European Union-27,8196101286.0,1993,export
+Canada,5311110114.0,1993,export
+Mexico,3733678847.0,1993,export
+South Korea,2141452788.0,1993,export
+Taiwan,2063648230.0,1993,export
+Hong Kong,1130358566.0,1993,export
+Russia,1032716386.0,1993,export
+United Kingdom,943039147.0,1993,export
+Egypt,757840538.0,1993,export
+Saudi Arabia,639414557.0,1993,export
+Turkey,570961826.0,1993,export
+Philippines,517004689.0,1993,export
+Venezuela,505990720.0,1993,export
+World total,47156292395.0,1992,export
+Japan,9851959346.0,1992,export
+European Union-27,8216723802.0,1992,export
+Canada,4904737463.0,1992,export
+Mexico,3716500176.0,1992,export
+South Korea,2301167736.0,1992,export
+Taiwan,1987042403.0,1992,export
+Union of Soviet Socialist Republics,1620599112.0,1992,export
+Hong Kong,1129829367.0,1992,export
+Russia,958392112.0,1992,export
+United Kingdom,896758415.0,1992,export
+Egypt,726386264.0,1992,export
+China,690796126.0,1992,export
+Saudi Arabia,669441581.0,1992,export
+Turkey,539119944.0,1992,export
+World total,43458610595.0,1991,export
+Japan,9457038651.0,1991,export
+European Union-27,8323235707.0,1991,export
+Canada,4494713806.0,1991,export
+Mexico,2929629729.0,1991,export
+South Korea,2261686065.0,1991,export
+Union of Soviet Socialist Republics,1859028221.0,1991,export
+Taiwan,1824296488.0,1991,export
+Hong Kong,1062770916.0,1991,export
+United Kingdom,900804502.0,1991,export
+Egypt,713785693.0,1991,export
+Saudi Arabia,696806565.0,1991,export
+China,689371847.0,1991,export
+Turkey,506694618.0,1991,export
+Algeria,422914035.0,1991,export
+World total,45347577812.0,1990,export
+Japan,9475839987.0,1990,export
+European Union-27,8446047108.0,1990,export
+Canada,3772220233.0,1990,export
+Union of Soviet Socialist Republics,2941134387.0,1990,export
+South Korea,2816920938.0,1990,export
+Mexico,2700568411.0,1990,export
+Taiwan,1926927398.0,1990,export
+Hong Kong,1184666987.0,1990,export
+China,914247883.0,1990,export
+United Kingdom,780002870.0,1990,export
+Egypt,754997214.0,1990,export
+Saudi Arabia,610623450.0,1990,export
+Iraq,495840423.0,1990,export
+Algeria,429422644.0,1990,export

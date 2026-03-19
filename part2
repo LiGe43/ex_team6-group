@@ -1,1 +1,76 @@
+import os
+from pathlib import Path
 
+def create_project_folders():
+    """创建项目文件夹结构"""
+    
+    # 主文件夹名称
+    main_folder = "USDA_Trade_Analysis"
+    
+    # 定义需要创建的文件夹列表
+    folders = [
+        main_folder,  # 主文件夹
+        f"{main_folder}/data_raw",  # 原始数据文件夹
+        f"{main_folder}/data_clean",  # 清洗后数据文件夹
+        f"{main_folder}/output",  # 输出文件夹
+        f"{main_folder}/output/figures",  # 图表输出子文件夹
+        f"{main_folder}/output/tables",  # 表格输出子文件夹
+    ]
+    
+    # 创建所有文件夹
+    for folder in folders:
+        Path(folder).mkdir(parents=True, exist_ok=True)
+        print(f"已创建文件夹: {folder}")
+    
+    # 创建README.md文件
+    readme_path = Path(main_folder) / "README.md"
+    readme_content = """# USDA农产品贸易数据分析
+
+## 项目描述
+分析美国农业部(USDA)的农产品进出口贸易数据
+
+## 数据来源
+- Top 15 U.S. agricultural import sources
+- Top 15 U.S. agricultural export destinations
+
+## 文件夹结构说明
+- `data_raw/`: 存放原始下载的Excel数据文件
+- `data_clean/`: 存放清洗后的数据文件
+- `output/`: 存放分析输出的结果
+  - `figures/`: 存放生成的图表
+  - `tables/`: 存放生成的表格
+"""
+    
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(readme_content)
+    print(f"已创建文件: {readme_path}")
+    
+    # 创建Jupyter notebook文件
+    notebooks = [
+        "00_analysis_report.ipynb",
+        "01_data_clean.ipynb", 
+        "02_data_analysis.ipynb"
+    ]
+    
+    for notebook in notebooks:
+        notebook_path = Path(main_folder) / notebook
+        # 创建空的notebook文件
+        with open(notebook_path, 'w', encoding='utf-8') as f:
+            f.write('{"cells":[],"metadata":{"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"}},"nbformat":4,"nbformat_minor":4}')
+        print(f"已创建文件: {notebook_path}")
+    
+    print(f"\n项目文件夹创建完成！主文件夹: {main_folder}")
+    print("\n文件夹结构:")
+    print(f"{main_folder}/")
+    print("  ├── README.md")
+    print("  ├── 00_analysis_report.ipynb")
+    print("  ├── 01_data_clean.ipynb")
+    print("  ├── 02_data_analysis.ipynb")
+    print("  ├── data_raw/")
+    print("  ├── data_clean/")
+    print("  └── output/")
+    print("      ├── figures/")
+    print("      └── tables/")
+
+if __name__ == "__main__":
+    create_project_folders()
